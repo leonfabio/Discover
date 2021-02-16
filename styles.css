@@ -87,7 +87,7 @@ header {
 #data-table {
     width: 100%;
     border-spacing: 0 0.5rem;
-    color: ;
+    color: #969cb3;
 }
 
 table thead tr th:first-child,
@@ -103,7 +103,6 @@ table thead th {
     padding: 1rem 2rem;
 
     text-align: left;
-    /*color: #969cb3;*/
 }
 
 table tbody tr {
